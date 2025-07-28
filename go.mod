@@ -3,7 +3,7 @@ module github.com/khulnasoft/superkit
 go 1.23.4
 
 require (
-	github.com/a-h/templ v0.3.898
+	github.com/a-h/templ v0.3.924
 	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/gorilla/sessions v1.4.0
 	github.com/joho/godotenv v1.5.1
